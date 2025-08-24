@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm A R Vaishnavi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **Digital Queue Management for Local Stores**
+- 🔭 I’m currently working on **Building a backend application for a hospital using Spring boot**
 
 - 🌱 I’m currently learning **Prompt Engineering for Developers**
 
@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **arvaishraghu27@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
